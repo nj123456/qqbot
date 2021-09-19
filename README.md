@@ -7,9 +7,9 @@
 ```
 yum install -y git ## 安装git
 
-git clone https://github.com/asupc/qqbot.git /roo/qqbot1 ## 克隆仓库
+git clone https://github.com/asupc/qqbot.git /root/qqbot1 ## 克隆仓库
 
-cd /roo/qqbot1 && docker-compose up -d ## 启动qqbot
+cd /root/qqbot1 && docker-compose up -d ## 启动qqbot
 
 ```
 
